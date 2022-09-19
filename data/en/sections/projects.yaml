@@ -11,26 +11,26 @@ section:
 projects:
 - name: Kubernetes
   logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  role: Owner
+  timeline: "March 2021 - Present"
+  repo: https://github.com/aboubakarismael16/Learning/tree/main/K8s # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Production-Grade Container Scheduling and Management.
   tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+- name: 油工程设计
+  logo: /images/sections/projects/cyj1.jpg
+  role: Student
+  timeline: "5 uly 2022 - 10 July 2022 "
+  repo: https://github.com/aboubakarismael16/OilProduction
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
+  summary: 依据已有的基础数据，利用所学的专业知识，完成抽油井系统从油层到地面的所有相关参数的计算，最终选出抽油泵、抽油杆、抽油机。.
+  tags: ["school", "Oil Production","academic"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
+- name: SnippetBox
+  logo: /images/sections/projects/logo.png
   role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  timeline: "Jun 2021 - Aug 2021"
+  repo: https://github.com/aboubakarismael16/SnippetBox
+  summary: A web application based on @Alex's book Let's Go. The web app was fully developed using Go and taking advantage of popular packages.
+  tags: ["Golang","Mysql",]

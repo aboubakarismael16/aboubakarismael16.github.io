@@ -31,8 +31,20 @@ params:
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
-
+  markup:
+    tableOfContents:
+      startLevel: 2
+      endLevel: 6
+      ordered: false
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
+    enable: false
+
+  #add background image
+  background: "images/japon.jpg"
+
+  darkMode:
     enable: true
+    provider: darkreader
+    default: system
