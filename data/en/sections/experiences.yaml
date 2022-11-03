@@ -1,3 +1,10 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 6
+  showOnNavbar: true
+
 # Your experiences
 experiences:
   - designation: Software Engineer
