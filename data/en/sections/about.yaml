@@ -15,7 +15,7 @@ company:
   url: "http://www.nepu.edu.cn/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/cloudNativeResume.pdf"
+resume: "files/resume-1.pdf"
 
 # a summary about you
 summary: 'Ismael Aboubakar is a student with a passion for open source, Deep Learning. He has a solid experience in the golang and data structure. He also has strong interests in various tech stuff such as Cloud Native, Cryptocurrencies, Big Startups. Ismael Aboubakar holds a BS in Petroleum Engineering from Northeast Petroleum University in China(Daqing). Currently, Ismael Aboubakar is working for China National Petroleum Corporation International Chad (CNPCIC). He is happy with his current job, but also willing to take new challenges if the opportunity matches his career path. While he is not working, he enjoys Playing football, likes travelling, writing blogs and learning languages.'
