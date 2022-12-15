@@ -6,7 +6,4 @@ section:
   weight: 5
   showOnNavbar: true
 
-recent-posts:
-- name: ChatGPT
-  tags: ["AI"]
 
