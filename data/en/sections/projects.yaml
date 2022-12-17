@@ -24,7 +24,7 @@ projects:
   timeline: "5 uly 2022 - 10 July 2022 "
   repo: https://github.com/aboubakarismael16/OilProduction
   #url: ""
-  summary: 依据已有的基础数据，利用所学的专业知识，完成抽油井系统从油层到地面的所有相关参数的计算，最终选出抽油泵、抽油杆、抽油机。.
+  summary: 依据已有的基础数据，利用所学的专业知识，完成抽油井系统从油层到地面的所有相关参数的计算，最终选出抽油泵、抽油杆、抽油机。
   tags: ["school", "Oil Production","academic"]
 
 - name: SnippetBox

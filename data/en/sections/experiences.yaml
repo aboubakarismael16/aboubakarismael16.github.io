@@ -18,7 +18,8 @@ experiences:
       overview: The Cloud Native Computing Foundation’s flagship conference gathers top technologists from leading open source and cloud-native communities in a unique hybrid setting to further the education and advancement of cloud-native computing.
     positions:
       - designation: Student
-        start: 24 Oct 2022 --- 28 Oct 2022
+        start: 24 Oct 2022
+        end: 28 Oct 2022
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
@@ -31,13 +32,18 @@ experiences:
       name: 东北石油大学
       url: "http://www.nepu.edu.cn/"
       location: China (Hei Long Jiang Province Daqing City)
-      overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+      overview: 依据已有的基础数据，利用所学的专业知识，完成抽油井系统从油层到地面的所有相关参数的计算，最终选出抽油泵、抽油杆、抽油机。
     positions:
       - designation: Student
         start: March 2016
         end: May 2017
         responsibilities:
-          - Write lots of example codes.
-          - Read lots of examples.
-          - See lots of example videos.
+          - 计算出油井温度分布
+          - 通过回归分析确定原油黏温关系表达式
+          - 确定出油井的合理下泵深度
+          - 确定合适的冲程、冲次
+          - 选择合适的抽油泵
+          - 确定抽油杆直径及组合
+          - 计算出悬点的最大、最小载荷
+          - 选出合适的抽油机
 
