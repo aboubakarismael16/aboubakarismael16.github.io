@@ -60,5 +60,5 @@ experiences:
         responsibilities:
           -`Feature:`Database pool connection pattern that allows for easy testing,Optimized the project work flow, Security standards,
             which includes;TLS, CSRF, session managment, Unit and integration testing, a cache for quicker performance
-          - Build Using : MySql for Databases, Go for Server Framework (net/http Package for Web Framework, alice for Middleware
+          -`Build Using :`MySql for Databases, Go for Server Framework (net/http Package for Web Framework, alice for Middleware
   Management, nosurf for CSRF Tool, crypto Package for Bcrypt for password encryption, Sessions for Session Management)
