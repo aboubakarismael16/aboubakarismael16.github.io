@@ -35,8 +35,8 @@ experiences:
       overview: 依据已有的基础数据，利用所学的专业知识，完成抽油井系统从油层到地面的所有相关参数的计算，最终选出抽油泵、抽油杆、抽油机。
     positions:
       - designation: Student
-        start: March 2016
-        end: May 2017
+        start: 20 Jun 2022
+        end: 30 Jun 2022
         responsibilities:
           - 计算出油井温度分布
           - 通过回归分析确定原油黏温关系表达式
